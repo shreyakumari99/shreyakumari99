@@ -1,3 +1,4 @@
+![logo](https://github.com/shreyakumari99/shreyakumari99/blob/main/bannerpic.png)
 <h1 align="center">Hi 👋, I'm Shreya Kumari</h1>
 <h3 align="center">A passionate Full Stack Developer and AIML enthusiast from India</h3>
 <img align="right" alt="coding" width="300" src="<img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/90890802-99ab-4fc3-a84d-1aff8540b91b" />
