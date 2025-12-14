@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Developer • AIML Enthusiast • From India 🇮🇳</h3>
 
 <img align="right" alt="Coding" width="300"
-     src="https://github.com/user-attachments/assets/da65b3f1-e32b-4064-a156-865e60010bdf" />
+     src="https://raw.githubusercontent.com/shreyakumari99/shreyakumari99/main/girlweb.gif" />
 
 ---
 
