@@ -1,7 +1,7 @@
 ![logo](https://github.com/shreyakumari99/shreyakumari99/blob/main/bannerpic.png)
 
 <h1 align="center">Hi 👋, I'm Shreya Kumari</h1>
-<h3 align="center">Full Stack Developer • AIML Enthusiast • From India 🇮🇳</h3>
+<h3 align="center">Full Stack Developer • AIML Enthusiast • From India </h3>
 
 <img align="right" alt="Coding" width="300"
      src="https://raw.githubusercontent.com/shreyakumari99/shreyakumari99/main/girlweb.gif" />
