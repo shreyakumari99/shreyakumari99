@@ -55,7 +55,10 @@
   <img src="https://streak-stats.demolab.com?user=shreyakumari99&theme=tokyonight" />
 </p>
 ---
+### 📈 GitHub Activity Graph
 
+![Shreya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyakumari99&theme=tokyo-night)
+---
 <p align="center">
   <strong>✨ Thanks for visiting! Let’s build something amazing together ✨</strong>
 </p>
