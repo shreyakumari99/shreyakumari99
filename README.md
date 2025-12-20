@@ -54,7 +54,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shreyakumari99&theme=tokyonight" />
 </p>
-
 ---
 
 <p align="center">
