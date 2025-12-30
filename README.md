@@ -47,10 +47,22 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shreyakumari99&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakumari99&layout=compact&theme=tokyonight&langs_count=8"
+    height="165"
+  />
+</p>
+
+<!--
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreyakumari99&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakumari99&layout=compact&theme=tokyonight&cache_seconds=86400" height="165" />
 </p>
-<!--
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shreyakumari99&theme=tokyonight" />
 </p>
