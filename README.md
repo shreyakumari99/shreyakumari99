@@ -45,7 +45,7 @@
 ---
 
 ### 📊 GitHub Stats
-
+<!--
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=shreyakumari99&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true"
@@ -56,9 +56,21 @@
     height="165"
   />
 </p>
+-->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shreyakumari99&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shreyakumari99&theme=tokyonight&no-frame=true" />
+</p>
+
+![snake gif](https://github.com/shreyakumari99/shreyakumari99/blob/output/github-contribution-grid-snake.svg)
 
 <!--
--->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreyakumari99&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakumari99&layout=compact&theme=tokyonight&cache_seconds=86400" height="165" />
@@ -67,7 +79,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shreyakumari99&theme=tokyonight" />
 </p>
-
+-->
 
 ---
 
