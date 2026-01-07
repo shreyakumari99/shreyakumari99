@@ -43,9 +43,9 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
 <!--
+### 📊 GitHub Stats
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=shreyakumari99&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true"
@@ -57,17 +57,6 @@
   />
 </p>
 -->
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shreyakumari99&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyakumari99&theme=tokyonight&no-frame=true" />
-</p>
-
-![snake gif](https://github.com/shreyakumari99/shreyakumari99/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 
