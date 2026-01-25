@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=aws,bootstrap,css,django,dotnet,express,git,html,java,js,matlab,mongodb,mysql,nodejs,opencv,postgres,postman,pug,python,pytorch,react,redux,tailwind,tensorflow&perline=10" />
 </p>
 
----
+
 <!--
 ### 📊 GitHub Stats
 
