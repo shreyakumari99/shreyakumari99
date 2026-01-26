@@ -14,7 +14,7 @@
 - 🌱 Learning **Advanced AIML models & modern frameworks**
 - 💻 All projects: **[github.com/shreyakumari99](https://github.com/shreyakumari99)**
 - 📫 Reach me at: **shreyakumari0652@gmail.com**
-- 📄 Resume: **[View PDF](https://github.com/shreyakumari99/My-resume/blob/main/Shreya-Resume.pdf)**
+- 📄 Resume: **[View PDF]([https://github.com/shreyakumari99/My-resume/blob/main/Shreya-Resume.pdf])**
 - ⚡ Fun fact: **I like my apps with appetizers 🍟**
 
 ---
